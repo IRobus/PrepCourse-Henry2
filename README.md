@@ -1,2 +1,2 @@
-# PrepCourse-Henry2
-Prubea 2 del PrepCourse
+Ignacio 
+Como crear un repositorio para github
